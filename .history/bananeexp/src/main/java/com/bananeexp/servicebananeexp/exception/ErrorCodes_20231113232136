@@ -1,0 +1,16 @@
+package com.bananeexp.servicebananeexp.exception;
+
+public enum ErrorCodes{
+
+    CLIENT_NON_TROUVER(10),COM_NON_TR
+
+    private int code;
+
+    ErrorCodes(int code){
+        this.code=code;
+    }
+
+    public int getCode(){
+        return code;
+    }
+}

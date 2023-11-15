@@ -1,0 +1,8 @@
+package com.bananeexp.servicebananeexp.exception;
+
+public enum ErrorCodes{
+
+    private int code;
+
+    
+}

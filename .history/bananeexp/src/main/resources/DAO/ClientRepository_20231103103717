@@ -1,0 +1,3 @@
+
+interface 
+public interface ClientRepository extends JpaRepository<Client,id>{}
