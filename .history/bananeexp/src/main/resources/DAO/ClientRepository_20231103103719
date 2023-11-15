@@ -1,3 +1,0 @@
-
-interface dzfef dfzf
-public interface ClientRepository extends JpaRepository<Client,id>{}
